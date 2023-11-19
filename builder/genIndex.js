@@ -18,7 +18,7 @@ const genIndex = function (markup) {
 
   html = html
     .replace("{{^READ_TIME}}", readVar)
-    .replace("{{^SCROLL_MSG}}", markup)
+    .replace("{{^SCROLL_MSG}}", process.env.SCROLL_MSG || process.env.SCROLL_MSG)
     .replace(
       "{{^HBD_MSG}}",
       process.env.HBD_MSG || "Wish you a very Happy Birthday"
