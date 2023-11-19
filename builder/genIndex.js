@@ -33,7 +33,7 @@ From the moment our paths intertwined, you have brought a kaleidoscope of colors
 
 
 
-Though I've yet to utter the words "I love you," the depth of my feelings resonates in every beat of my heart, every stolen glance, and every unspoken thought. You are the sun that guides me through the darkest nights, the moon that illuminates my dreams, and the very air that I breathe.
+Though I've yet to utter the words I love you, the depth of my feelings resonates in every beat of my heart, every stolen glance, and every unspoken thought. You are the sun that guides me through the darkest nights, the moon that illuminates my dreams, and the very air that I breathe.
 
 Today, I extend my heartfelt gratitude to your mother, the woman who nurtured and raised you into the remarkable person you are today. Her love, care, and sacrifices have shaped your character, instilling in you the values that make you so special.Please thank her on my behalf.
 
